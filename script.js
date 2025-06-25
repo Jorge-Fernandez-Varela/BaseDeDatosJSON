@@ -682,6 +682,55 @@ const baseDatos =
             artista: "One Ok Rock",
             link: "TR0HBYtcpZI&list=PLcv40xph4T69ttllS4lFFBPHq5Iz9b2Wh",
         },
+        {
+            id: 45,
+            //Nombre
+            nombre: "The Emptiness Machine",
+            artista: "Linkin Park",
+            id_artista: 15,
+            link: "6gKkdoSi126fRKIf",
+            genero: "Rock",
+            id_genero: 1,
+            album: "From Zero"
+        },
+        {
+            id: 46,
+            nombre: "Sit Next to Me",
+            artista: "Foster the people",
+            id_artista: 33,
+            link: 
+            genero: "Pop",
+            link: "BKLVpDTZOPQ",
+        },
+        {
+            id: 47,
+            nombre: "Call it what you want",
+            genero: "Pop",
+            artista: "Foster the people",
+            link: "TR0HBYtcpZI&list=PLcv40xph4T69ttllS4lFFBPHq5Iz9b2Wh",
+        },
+    
+        {
+            id: 48,
+            nombre: "The Darkness That You Fear",
+            genero: "Electronica",
+            artista: "The Chemical Brothers",
+            link: "BKLVpDTZOPQ",
+        },
+        {
+            id: 49,
+            nombre: "Vandalize",
+            genero: "ROck",
+            artista: "One Ok Rock",
+            link: "TR0HBYtcpZI&list=PLcv40xph4T69ttllS4lFFBPHq5Iz9b2Wh",
+        },
+        {
+            id: 50,
+            nombre: "broken heart of gold",
+            genero: "ROck",
+            artista: "One Ok Rock",
+            link: "TR0HBYtcpZI&list=PLcv40xph4T69ttllS4lFFBPHq5Iz9b2Wh",
+        }
     
     
     
